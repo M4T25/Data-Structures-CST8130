@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Entry","l":"PostalCodeEntry"},{"p":"SearchTest","l":"PostalCodeSearchTest"}];updateSearchResults();
